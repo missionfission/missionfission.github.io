@@ -1,0 +1,12 @@
+# main links links
+main:
+  # - title: "Talks"
+  #   url: /talks/
+  # - title: "Projects"
+  #   url: /projects/
+  - title: "Publications"
+    url: /publications/
+  - title: "Teaching"
+    url: /teaching/
+  - title: ".."
+    url: /past/
