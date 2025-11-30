@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Khushal is a serial entrepreneur, the founder of [Xapien Labs](https://omniverta.com/) and [DragonX Systems](https://dragonx-systems.com)
+Khushal is a serial entrepreneur
 
 He was a PhD Candidate at Stanford University, working on the thesis titled "Game Engines for Video Compression : Video Compression for the Metaverse". 
 In academia, he serves as the reviewer for multiple ACM/IEEE Conferences and Journals. 
